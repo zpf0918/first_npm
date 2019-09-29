@@ -1,0 +1,24 @@
+{
+  "name": "first_npm",
+  "version": "1.0.0",
+  "description": "my first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/zpf0918/first_npm.git"
+  },
+  "keywords": [
+    "goose",
+    "first",
+    "npm"
+  ],
+  "author": "jonathan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zpf0918/first_npm/issues"
+  },
+  "homepage": "https://github.com/zpf0918/first_npm#readme"
+}
